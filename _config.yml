@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Blog
+description:    "Sanghun's Blog"
 #baseurl:        "/tale"
 url:            "https://sanghun-gwon.github.io"
 
