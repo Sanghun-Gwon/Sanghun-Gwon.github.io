@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 typora-root-url: ../
 ---
 
-**Sorting**이란, 순서없이 나열된 요소들(elements,key)을 **특정한 기준(내림차순 or 오름차순)**에 따라 비교하여 **재배열(rearrange)**하는 것을 말한다.<!--more-->
+> **Sorting**이란, 순서없이 나열된 요소들(elements,key)을 **특정한 기준(내림차순 or 오름차순)**에 따라 비교하여 **재배열(rearrange)**하는 것을 말한다.
+
+<!--more-->
 
 # Sorting Algorithm
 
