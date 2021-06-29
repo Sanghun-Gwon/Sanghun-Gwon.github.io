@@ -4,9 +4,10 @@ title: "Sorting Algorithm"
 author: "Sanghun"
 tags: Algorithm
 excerpt_separator: <!--more-->
+typora-root-url: ../
 ---
 
-> **Sorting**이란, 순서없이 나열된 요소들(elements,key)을 특정한 기준(내림차순 or 오름차순)에 따라 비교하여 재배열(rearrange)하는 것을 말한다.
+> **Sorting**이란, 순서없이 나열된 요소들(elements,key)을 **특정한 기준(내림차순 or 오름차순)**에 따라 비교하여 **재배열(rearrange)**하는 것을 말한다.<!--more-->
 
 # Sorting Algorithm
 
@@ -34,5 +35,6 @@ excerpt_separator: <!--more-->
 
 ### 정렬알고리즘 복잡도
 
-![Image with caption](https://placehold.it/700x400 "Image with caption")
-_This is an image with a caption_
+![sorting_complexity](/assets/img/sorting-algorithm/sorting_complexity.png)
+
+
