@@ -28,6 +28,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - multiple-languages
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
@@ -39,3 +40,5 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
 disqus:         jekyll-tale
+
+languages: ["ko", "en"]
